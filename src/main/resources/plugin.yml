@@ -1,0 +1,4 @@
+name: WorldTpCommand
+version: 1.0.0
+main: tk.awdevelopment.worldtpcommand.Main
+api-version: '1.19'
